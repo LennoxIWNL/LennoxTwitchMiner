@@ -13,7 +13,7 @@
 
 ## 📦 Download & Install
 
-**Download:** `installer/TwitchMiner-2.0.0-Setup.exe`
+**Download:** `TwitchMiner-2.0.0-Setup.exe`
 
 **Installation:** Just run the installer and follow the on-screen instructions. The app will be installed with shortcuts on your desktop and start menu.
 
